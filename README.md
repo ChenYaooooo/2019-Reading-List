@@ -13,7 +13,11 @@
 
 ## 技术
 1. :+1:人机平台：商业未来行动路线图
-1. :+1:人机平台：商业未来行动路线图
+1. :+1:Educated
+1. :+1:Army of None
+1. :+1:Bad Blood
+1. :+1:21 Lessons for the 21st Century
+1. :+1:The Headspace Guide to Meditation and Mindfulness
 ## 文学
 ## 传记
 ## 历史
