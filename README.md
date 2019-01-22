@@ -13,6 +13,7 @@
 
 ## 技术
 1. :+1:人机平台：商业未来行动路线图
+1. :+1:How to Create a Mind by Ray Kurzweil
 1. :+1:Educated
 1. :+1:Army of None
 1. :+1:Bad Blood
